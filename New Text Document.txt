@@ -1,0 +1,1 @@
+ed   hdfs_text_file -st   600  -gm true -fi
